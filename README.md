@@ -1,6 +1,6 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/Shape581/PizzaCraft581/total)
 
-# ⚡ PizzaCrafy581 V1.0.0
+# ⚡ PizzaCraft581 V1.0.0
 
 PizzaCraft581 est un plugin qui permet la création de pizza.
 
